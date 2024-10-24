@@ -19,4 +19,5 @@ Para abrir a interface do Cypress e executar os testes, utilize o seguinte coman
 npx cypress open 
 
 #Autor
+
 Tiago Paranhos
